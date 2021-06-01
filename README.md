@@ -1,1 +1,3 @@
-# bootcamp_alura
+# Bootcamp Alura
+
+Primeiro mergulho em Python
